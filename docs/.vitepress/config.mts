@@ -2,28 +2,35 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "myResume.github.io",
+  title: "李嘉鹏-简历",
   description: "个人简历与项目",
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: "首页", link: "/" },
+      { text: "简历", link: "/resume" },
+      { text: "开源项目", link: "/open-source" },
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: "简历",
+        items: [{ text: "完整简历", link: "/resume" }],
+      },
+      {
+        text: "项目",
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
-        ]
-      }
+          { text: "开源", link: "/open-source" },
+          { text: "兴趣", link: "/personal-project" },
+        ],
+      },
     ],
 
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
+    socialLinks: [{ icon: "github", link: "https://github.com/time202051" }],
+
+    footer: {
+      message: "Released under the MIT License.",
+      copyright: "Copyright © 2025-present 李嘉鹏",
+    },
   },
   lastUpdated: true,
   base: "/myResume.github.io/",
