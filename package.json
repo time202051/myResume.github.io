@@ -1,8 +1,4 @@
 {
-  "name": "my-resume",
-  "version": "1.0.0",
-  "description": "个人简历与项目",
-  "type": "module",
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
@@ -10,6 +6,5 @@
   },
   "devDependencies": {
     "vitepress": "^2.0.0-alpha.16"
-  },
-  "packageManager": "pnpm@9.0.0"
+  }
 }
