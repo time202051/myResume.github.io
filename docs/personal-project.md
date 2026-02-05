@@ -2,7 +2,7 @@
 
 ## 智慧鱼池
 
-<img src="/public/smartFish.jpg" alt="智慧鱼池" style="max-width: 350px; width: 100%;">
+<img src="/smartFish.jpg" alt="智慧鱼池" style="max-width: 350px; width: 100%;">
 
 **技术栈**: Uniapp + MQTT + ESP8266 + 物联网
 
@@ -25,7 +25,7 @@
 
 ## MQTT 匿名聊天室
 
-<img src="/public/liaotian.png" alt="MQTT匿名聊天室" style="max-width: 350px; width: 100%;">
+<img src="/liaotian.png" alt="MQTT匿名聊天室" style="max-width: 350px; width: 100%;">
 
 **仓库地址**: [https://github.com/time202051/mqttA](https://github.com/time202051/mqttA)
 
@@ -45,7 +45,7 @@
 
 ## uniCloud 数据管理系统
 
-<img src="/public/bizhi.png" alt="uniCloud数据管理系统" style="max-width: 350px; width: 100%;">
+<img src="/bizhi.png" alt="uniCloud数据管理系统" style="max-width: 350px; width: 100%;">
 
 **技术栈**: Uniapp + uniCloud + 支付宝云服务
 

@@ -10,7 +10,7 @@
 
 无需联调的 CRUD 页面基于 Element-UI 的企业级组件库。交互式命令行方式自动生成完整页面，无需手动联调，几秒完成页面。
 
-![ol-base-components](/public/olbaseComponentsGw.png)
+![ol-base-components](/olbaseComponentsGw.png)
 
 ### 核心特性
 
@@ -34,13 +34,13 @@ npm install ol-base-components
 ### 1. vue-page-generator
 
 Vue 页面生成器，快速生成 Vue 页面模板，包含常用配置和结构，加速项目开发。
-![vue-page-generator](/public/vue-page-generator.png)
+![vue-page-generator](/vue-page-generator.png)
 
 ### 2. auto-columns
 
 自动生成表格列配置，根据数据结构智能生成列定义，减少手动编写列配置的工作量。
 
-![auto-columns](/public/autoColumns.png)
+![auto-columns](/autoColumns.png)
 
 ### 3. copy encryption cracking
 
