@@ -32,7 +32,7 @@ export default defineConfig({
       copyright: "Copyright © 2025-present 李嘉鹏",
     },
   },
-  lastUpdated: true,
+  lastUpdated: false,
   base: "/myResume.github.io/",
   markdown: {},
 
