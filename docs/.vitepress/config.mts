@@ -1,8 +1,8 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "李嘉鹏-简历",
+  title: "李嘉鹏-简历（真心期待您的联系😊）",
   description: "个人简历与项目",
   themeConfig: {
     nav: [
@@ -35,5 +35,4 @@ export default defineConfig({
   lastUpdated: false,
   base: "/myResume.github.io/",
   markdown: {},
-
-})
+});
