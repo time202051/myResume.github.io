@@ -24,6 +24,7 @@ features:
   - icon: <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 256 256"><defs><linearGradient id="pluginGrad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#007ACC"/><stop offset="100%" stop-color="#005A9E"/></linearGradient><filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#000" flood-opacity="0.3"/></filter></defs><rect x="32" y="32" width="192" height="192" rx="24" fill="url(#pluginGrad)" filter="url(#shadow)"/><g fill="#fff" opacity="0.95"><path d="M64 96h48v16H64V96zm0 40h48v16H64v-16zm0 40h48v16H64v-16zm64-80h48v16h-48V96zm0 40h48v16h-48v-16zm0 40h48v16h-48v-16z"/></g><path d="M128 64l-24 24 24 24 24-24-24-24z" fill="#fff" opacity="0.9"/></svg>
     title: VSCode 插件开发
     details: 开发 auto-columns、copy encryption cracking、vue-page-generator 等插件
+    link: https://marketplace.visualstudio.com/manage/publishers/lijiapeng
   - icon: 🤖
     title: 脚本 + AI 全流程开发
     details: 从静态页面、接口联调、到 bug 单排查，全程能够使用 AI和脚本快速自动化开发
