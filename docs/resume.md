@@ -42,8 +42,8 @@
 
 开发了 3 个 VSCode 插件提升开发效率：
 
-- **auto-columns**: 自动生成表格列配置
-- **copy encryption cracking**: 加密破解工具插件
+- **auto-columns**: 提取页面接口生成文档，复制columns配置
+- **copy encryption cracking**: 破解禁止复制的工具插件
 - **vue-page-generator**: Vue 页面生成器
 
 ---

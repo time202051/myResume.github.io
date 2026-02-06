@@ -33,18 +33,18 @@ npm install ol-base-components
 
 ### 1. vue-page-generator
 
-Vue 页面生成器，快速生成 Vue 页面模板，包含常用配置和结构，加速项目开发。
+Vue 页面生成器，一键生成联调好的增删改查页面，加速项目开发。
 ![vue-page-generator](/vue-page-generator.png)
 
 ### 2. auto-columns
 
-自动生成表格列配置，根据数据结构智能生成列定义，减少手动编写列配置的工作量。
+提取页面接口生成文档，复制columns配置，减少手动编写配置的工作量。
 
 ![auto-columns](/autoColumns.png)
 
 ### 3. copy encryption cracking
 
-密破禁止复制的工具插件。
+破解禁止复制的工具插件。
 
 ## element-plus-leaf
 

@@ -43,9 +43,9 @@
 
 ---
 
-## uniCloud 数据管理系统
+## uniCloud 图片管理系统
 
-<img src="/bizhi.png" alt="uniCloud数据管理系统" style="max-width: 350px; width: 100%;">
+<img src="/bizhi.png" alt="uniCloud图片管理系统" style="max-width: 350px; width: 100%;">
 
 **技术栈**: Uniapp + uniCloud + 支付宝云服务
 
@@ -53,7 +53,7 @@
 
 **项目简介**:
 
-基于 Uniapp 和 uniCloud 开发的数据管理系统，数据存储在支付宝云服务中，实现了完整的列表增删改查功能。
+基于 Uniapp 和 uniCloud 开发的图片管理系统，数据存储在支付宝云服务中，实现了完整的列表增删改查功能。
 
 **核心功能**:
 
