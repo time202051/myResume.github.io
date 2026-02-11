@@ -1,5 +1,7 @@
 # 个人简历
 
+<a href="/myResume.github.io/李嘉鹏-7年前端简历.pdf" target="_blank" style="text-decoration: none;">下载 PDF 版本</a>
+
 ## 基本信息
 
 - **姓名**: 李嘉鹏
@@ -21,7 +23,7 @@
 
 ## 核心亮点
 
-### 企业级组件库 - ol-base-components
+### 1.企业级组件库 - ol-base-components
 
 **文档**: [https://time202051.github.io/baseCom.github.io/](https://time202051.github.io/baseCom.github.io/)
 
@@ -38,7 +40,7 @@
 
 ---
 
-### VSCode 插件开发
+### 2.VSCode 插件开发
 
 开发了 3 个 VSCode 插件提升开发效率：
 
@@ -48,7 +50,7 @@
 
 ---
 
-### 脚本 + AI 全流程开发
+### 3.脚本 + AI 全流程开发
 
 从页面开发、自测到 bug 排查，全程使用 AI 和脚本自动化，大幅提升开发效率。
 

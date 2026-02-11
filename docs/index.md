@@ -4,7 +4,7 @@ layout: home
 hero:
   name: "李嘉鹏"
   text: "7年 · 前端开发工程师"
-  tagline: 专注于 Vue 生态 · 擅长组件封装与开发效率提升
+  tagline: 7年前端经验 · 专注于 Vue 生态与组件工程化
   image:
     src: /avatar.png
     alt: 李嘉鹏
