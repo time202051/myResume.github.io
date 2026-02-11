@@ -31,7 +31,7 @@ npm install ol-base-components
 
 ## VSCode 插件
 
-### 1. vue-page-generator
+### 1. <a href="https://time202051.github.io/baseCom.github.io/vscode/vuePageGenerator.html" target="_blank" style="text-decoration: none;">vue-page-generator</a>
 
 Vue 页面生成器，一键生成联调好的增删改查页面，加速项目开发。
 ![vue-page-generator](/vue-page-generator.png)
@@ -42,9 +42,10 @@ Vue 页面生成器，一键生成联调好的增删改查页面，加速项目�
 
 ![auto-columns](/autoColumns.png)
 
-### 3. copy encryption cracking
+### 3. <a href="https://time202051.github.io/baseCom.github.io/copyEncryptionCracking/" target="_blank" style="text-decoration: none;">copy encryption cracking</a>
 
 破解禁止复制的工具插件。
+![copy encryption cracking](/copy.png)
 
 ## element-plus-leaf
 
